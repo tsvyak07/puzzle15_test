@@ -7,8 +7,11 @@ The 15-puzzle game on Java for web (server - Apache Tomcat)
 need up hava version 
 
 //<properties>
+<br>
   //<maven.compiler.source>1.8</maven.compiler.source>
+<br>
   //<maven.compiler.target>1.8</maven.compiler.target>
+<br>
 //</properties>
 
 
