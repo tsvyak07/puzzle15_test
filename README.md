@@ -17,7 +17,11 @@ need up hava version
 
 and connect plugin maven (mvn package war:war)
 #<dependency>
+<br>
     #<groupId>org.apache.maven.plugins</groupId>
+<br>
     #<artifactId>maven-war-plugin</artifactId>
+<br>
     #<version>3.2.0</version>
+<br>
 #</dependency>
