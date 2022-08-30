@@ -16,7 +16,8 @@ need up java version
 --->
 
 and connect plugin maven (mvn package war:war)
-<!---<dependency>
+<!---
+<dependency>
 <br>
     <groupId>org.apache.maven.plugins</groupId>
 <br>
